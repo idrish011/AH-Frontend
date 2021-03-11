@@ -1,0 +1,19 @@
+{
+  "name": "ah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idrish011/test.git"
+  },
+  "author": "Idrish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idrish011/test/issues"
+  },
+  "homepage": "https://github.com/idrish011/test#readme"
+}
