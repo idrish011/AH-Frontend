@@ -1,6 +1,7 @@
 import React, {
     Component
 } from 'react';
+ /* eslint-disable */ 
 import {
     Header
 } from './Header';
