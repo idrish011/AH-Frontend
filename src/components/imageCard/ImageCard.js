@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+ /* eslint-disable */ 
 import './index.css';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';

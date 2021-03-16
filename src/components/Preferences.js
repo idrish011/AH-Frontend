@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+ /* eslint-disable */ 
 import { Header } from './Header';
 import Tabs from './tabs/tabs';
 import Row from 'react-bootstrap/Row';
