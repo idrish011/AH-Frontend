@@ -24,7 +24,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
-
+ /* eslint-disable */ 
 // function addDocument(props) {
 //     return (
 //         <Form.Group as={Col} md={3} >

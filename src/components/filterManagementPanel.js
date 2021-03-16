@@ -17,7 +17,7 @@ import UnMapCards from './imageCard/unmapImageCard';
 import FiltersList from './filters/filterListSelection';
 import Mappedfilters from './filters/mappedFilters';
 // import UNSelectALL from './UnselectAll';
-
+ /* eslint-disable */ 
 // import {
 //     Header
 // } from './detailsHeader';

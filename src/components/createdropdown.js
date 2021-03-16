@@ -7,6 +7,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
+ /* eslint-disable */ 
 class AssetDetails extends Component {
     constructor(props) {
         super(props);

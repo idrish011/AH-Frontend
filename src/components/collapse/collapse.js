@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import './index.css';
 import Collapse from 'react-bootstrap/Collapse'
 // import Fade from 'react-bootstrap/Fade'
+ /* eslint-disable */ 
 import Button from 'react-bootstrap/Button';
 class CollapseExpand extends Component {
     constructor(props, context) {

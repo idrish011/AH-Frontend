@@ -12,6 +12,7 @@ import Form from 'react-bootstrap/Form'
 
 import axios from 'axios';
 import { BrowserRouter as Router, Route, Redirect, Link } from "react-router-dom";
+ /* eslint-disable */ 
 export class Header extends Component {
 
   constructor(props) {
