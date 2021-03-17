@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
+
 import Carousel from 'react-bootstrap/Carousel';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
 import Profile from "./profileDropdown";
- /* eslint-disable */ 
+
 import { BrowserRouter as Router, Route, Redirect, Link } from "react-router-dom";
 export class Header extends Component {
     constructor(props) {

@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import { Header } from './components/Header';
- /* eslint-disable */ 
+
 // import { Link, Redirect, Route, HashRouter as Router } from "react-router-dom"
 import INDEXPANEL from "./components/indexComp";
 import PARENTCOMPONENT from './components/ParentComponent';

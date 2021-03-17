@@ -1,5 +1,5 @@
- /* eslint-disable */ 
 import React, { Component } from 'react';
+
 import Carousel from 'react-bootstrap/Carousel';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -12,7 +12,6 @@ import Form from 'react-bootstrap/Form'
 
 import axios from 'axios';
 import { BrowserRouter as Router, Route, Redirect, Link } from "react-router-dom";
- /* eslint-disable */ 
 export class Header extends Component {
 
   constructor(props) {

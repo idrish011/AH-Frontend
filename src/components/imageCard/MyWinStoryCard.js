@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
- /* eslint-disable */ 
 import './index.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -8,7 +7,6 @@ import Moment from 'react-moment';
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab';
 import axios from 'axios';
- /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

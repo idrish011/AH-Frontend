@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
 class UnSelectAllWins extends Component {
     constructor(props) {
         super(props);

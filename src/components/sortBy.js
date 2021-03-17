@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Dropdown from 'react-bootstrap/Dropdown';
- /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,

@@ -1,11 +1,9 @@
- /* eslint-disable */ 
 import React, {
     Component
 } from 'react';
 // import {
 //     Header
 // } from './detailsHeader';
- /* eslint-disable */ 
 import { Header } from './Header';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -22,7 +20,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 import { globalAgent } from 'http';
 class AssetDetails extends Component {
     constructor(props) {

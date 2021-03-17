@@ -11,7 +11,6 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form'
 import Footer from './Footer/Footer';
 import Button from 'react-bootstrap/Button'
- /* eslint-disable */ 
 import {
     BrowserRouter as Router,
     Route,
@@ -19,7 +18,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 class AssetDetails extends Component {
     constructor(props) {
         super(props);

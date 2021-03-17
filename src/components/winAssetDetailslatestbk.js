@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
 import { Header } from './Header';
- /* eslint-disable */ 
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
@@ -12,7 +11,7 @@ import Loader from './loader/loader';
 import Footer from './Footer/Footer';
 import Button from 'react-bootstrap/Button'
 import WSTABS from './tabs/winTabs';
- /* eslint-disable */ 
+
 import {
     BrowserRouter as Router,
     Route,

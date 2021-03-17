@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
 import { Header } from './Header';
 import Tabs from './tabs/tabs';
 import Row from 'react-bootstrap/Row';
@@ -18,7 +17,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 class AssetDetails extends Component {
     constructor(props) {
         super(props);

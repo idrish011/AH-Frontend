@@ -1,4 +1,3 @@
- /* eslint-disable */ 
 import React, { Component } from 'react'
 import './index.css';
 import Row from 'react-bootstrap/Row';
@@ -13,6 +12,7 @@ import Alert from 'react-bootstrap/Alert';
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
 import ReactMarkdown from  'react-markdown';
+
 
 import {
     BrowserRouter as Router,

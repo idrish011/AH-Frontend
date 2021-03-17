@@ -3,7 +3,6 @@ import {
     Redirect
 } from "react-router-dom";
 import axios from 'axios';
- /* eslint-disable */ 
 export class Footer extends Component {
     constructor(props) {
         super(props);

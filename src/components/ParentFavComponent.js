@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Header } from './Header';
- /* eslint-disable */ 
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Search } from './search/Search';
@@ -17,7 +17,6 @@ import { Link, Redirect } from "react-router-dom";
 import SORTBY from "./sortBy";
 import DIALOG from './dialog';
 import CREATEDD from './createdropdown';
- /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

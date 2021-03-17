@@ -1,4 +1,3 @@
- /* eslint-disable */ 
 import React, { Component } from 'react';
 import { Header } from './Header';
 import Row from 'react-bootstrap/Row';
@@ -10,7 +9,7 @@ import Loader from './loader/loader';
 import Footer from './Footer/Footer';
 import Tabs from './tabs/tabs';
 import Button from 'react-bootstrap/Button'
- /* eslint-disable */ 
+
 import {
     BrowserRouter as Router,
     Route,

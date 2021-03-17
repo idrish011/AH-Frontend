@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
 import axios from "axios";
 import Dropdown from 'react-bootstrap/Dropdown';
 import {
@@ -9,7 +8,7 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
+
 class profilePanel extends Component {
     constructor(props) {
         super(props);

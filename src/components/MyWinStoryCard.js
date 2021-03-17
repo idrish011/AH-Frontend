@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
- /* eslint-disable */ 
 import './index.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -15,7 +14,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
-
 export class ImageCard extends Component {
     state = {
         WinStoryDataLive: [], WinStoryUnderReview: [], PendingRectification: [], WinStoryRejected: [],

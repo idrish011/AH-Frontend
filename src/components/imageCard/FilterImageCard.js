@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
- /* eslint-disable */ 
 import './index.css';
 import Row  from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -7,7 +6,7 @@ import Image from 'react-bootstrap/Image';
 import Moment from 'react-moment';
 import SelectALL from '../selectAll';
 import SelectALLWin from '../selectAllWins';
- /* eslint-disable */ 
+
 import axios from 'axios';
 import {
     BrowserRouter as Router,

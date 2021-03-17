@@ -4,7 +4,6 @@ import React, {
 // import {
 //     Header
 // } from './detailsHeader';
- /* eslint-disable */ 
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
@@ -20,7 +19,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 import { globalAgent } from 'http';
 class AssetDetails extends Component {
     constructor(props) {

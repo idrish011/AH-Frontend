@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
- /* eslint-disable */ 
 import { Header } from './Header';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -14,7 +13,6 @@ import {
     Redirect,
     withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

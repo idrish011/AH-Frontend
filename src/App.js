@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import RouteFile from './route';
 class App extends Component {
- /* eslint-disable */ 
+
   render() {
     var ip = window.location.hostname;
     var protocol = window.location.protocol + '//';

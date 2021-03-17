@@ -1,4 +1,3 @@
- /* eslint-disable */ 
 import React, { Component } from 'react';
 import { Header } from './Header';
 import Row from 'react-bootstrap/Row';
@@ -7,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 import GovernanceCard from './imageCard/governanceCard';
 import Loader from './loader/loader';
 import Footer from './Footer/Footer';
- /* eslint-disable */ 
+
 class ParentComponent extends Component {
     constructor(props) {
         super(props);

@@ -1,4 +1,3 @@
- /* eslint-disable */ 
 import React, { Component } from 'react';
 import { Header } from './Header';
 // import Row from 'react-bootstrap/Row';
@@ -11,7 +10,7 @@ import { Header } from './Header';
 // import Tabs from './tabs/tabs';
 // import Button from 'react-bootstrap/Button'
 // import { BrowserRouter as Router, Route,Redirect, Link } from "react-router-dom";
- /* eslint-disable */ 
+
 import {
     BrowserRouter as Router,
     Route,

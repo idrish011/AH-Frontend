@@ -8,7 +8,6 @@ import {
   Redirect,
   withRouter
 } from "react-router-dom";
- /* eslint-disable */ 
 import axios from 'axios';
 
 export class Slider extends Component {

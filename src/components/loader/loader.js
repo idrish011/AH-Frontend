@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import './index.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
- /* eslint-disable */ 
 export class Loader extends Component {
   render() {
      

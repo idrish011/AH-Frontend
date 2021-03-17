@@ -1,4 +1,3 @@
- /* eslint-disable */ 
 import React, { Component } from 'react';
 import { Header } from './Header';
 
@@ -20,7 +19,7 @@ import DIALOG from './dialog';
 import CREATEDD from './createdropdown';
 import { Search } from './search/Search';
 import ImageCard from './imageCard/ImageCard';
- /* eslint-disable */ 
+
 class ParentComponent extends Component {
     constructor(props) {
         super(props);
