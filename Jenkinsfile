@@ -1,13 +1,14 @@
-pipeline {pipeline {
-    agent  {
+pipeline {
+    agent {
+        
     }
-
+    environment {
+        CI = 'true'
+    }
     stages {
-        stage('Build') { 
+        stage('Build') {
             steps {
                 sh 'npm install'
-                sh 'npm run build --verbose'
-                sh 'CI=true npm build' 
             }
         }
     }
